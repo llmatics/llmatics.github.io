@@ -60,7 +60,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # url: "" # the base hostname & protocol for your site, e.g. https://example.com
 # favicon: "" # the favicon for your site
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
@@ -138,7 +138,7 @@ greatgold: #f2cb05
 greenblue: #389092
 #
 # brand_color: orangered
-brand_color: greatgold
+brand_color: greenblue
 
 #
 # Custom color as below:
@@ -182,8 +182,8 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "LLMatics Blog"
-    subheading: "Your awesome subheading"
+    heading: "LLMatics"
+    subheading: "Mathematics at the core of LLMs"
     banner: "Your image url"
 
 # Banner default settings
