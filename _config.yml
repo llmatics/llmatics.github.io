@@ -32,7 +32,7 @@
 
 title: LLMatics
 email: koffivi.fidele@aims.ac.rw
-author: GitHub User
+author: Koffivi Fidele Gbagbe
 
 ################################################################
 
@@ -48,7 +48,9 @@ author: GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+
+# copyright: "Unpublished Work (cleft) 2025-{currentYear} {author}"
+copyright: "Copyright © 2025-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
