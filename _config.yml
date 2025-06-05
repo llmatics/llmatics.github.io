@@ -32,7 +32,7 @@
 
 title: LLMatics
 email: koffivi.fidele@aims.ac.rw
-author: Koffivi Fidele Gbagbe
+author: Koffivi  Gbagbe
 
 ################################################################
 
@@ -186,7 +186,7 @@ defaults:
   home:
     heading: "LLMatics"
     subheading: "Mathematics at the core of LLMs"
-    banner: "Your image url"
+    banner: "/assets/images/banners/banner12.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -199,7 +199,8 @@ banner:
   image: null # Image banner source
   opacity: 1.0 # Banner opacity (100% is 1.0)
   background: "rgba(0, 0, 0, 0.8)" # Banner background (Could be a image)
-  height: "640px" # Banner default height
+  # height: "640px" # Banner default height
+  height: "250px" # Banner default height
   min_height: null # Banner minimum height
   heading_style: null # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
   subheading_style: null # Custom subheading style (e.g. color: gold)
