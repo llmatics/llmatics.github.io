@@ -52,10 +52,17 @@ author: Koffivi  Gbagbe
 # copyright: "Unpublished Work (cleft) 2025-{currentYear} {author}"
 copyright: "Copyright © 2025-{currentYear} {author}"
 
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to LLMatics; where math meets AI! 
+  This blog is all about breaking down the ideas behind large language models (LLMs) and understanding how they really work. 
+  I dive into the math that powers these models and explain it in a way that’s clear and (hopefully) fun. 
+  You’ll also find hands-on tutorials and code examples using tools like PyTorch and TensorFlow, so you can go from theory to practice. 
+  Whether you're just curious or already deep into AI, there’s something here for you.
 
 ################################################################
 # baseurl: "" # the subpath of your site, e.g. /blog
