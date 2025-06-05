@@ -186,7 +186,7 @@ defaults:
   home:
     heading: "LLMatics"
     subheading: "Mathematics at the core of LLMs"
-    banner: "/assets/images/banners/banner12.jpg"
+    banner: "/assets/images/banners/3.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
