@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: b1049392-12b3-4ac7-8ac5-aec0ac08163e
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/llmatics/llmatics.github.io
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
