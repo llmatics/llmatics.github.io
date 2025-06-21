@@ -2,8 +2,8 @@
 version: 1
 project:
   id: b1049392-12b3-4ac7-8ac5-aec0ac08163e
-  # title:
-  # description:
+  title: 🎓 Welcome to LLMatics!
+  description: Unlock the math magic 🧠 behind Large Language Models 🤖✨
   # keywords: []
   # authors: []
   github: https://github.com/llmatics/llmatics.github.io
