@@ -24,6 +24,8 @@ The goals of the [quickstart guide](https://myst.tools/docs/mystjs/quickstart) a
 
 ![](./images/export-pdf.png) -->
 
+## 2025
+
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
   <div style="border: 0.5px solid pink; border-radius: 8px; padding: 16px; box-shadow: 2px 2px 6px rgba(255, 192, 203, 0.3);">
@@ -53,3 +55,7 @@ The goals of the [quickstart guide](https://myst.tools/docs/mystjs/quickstart) a
 </div>
 
 <!-- # Recent blog posts 2 -->
+
+##
+
+## 2024
