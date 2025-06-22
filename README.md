@@ -21,3 +21,33 @@ The goals of the [quickstart guide](https://myst.tools/docs/mystjs/quickstart) a
 ## Export as a PDF
 
 ![](./images/export-pdf.png)
+
+## Recent blog posts
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 2px 2px 8px rgba(0,0,0,0.05);">
+    <a href="https://example.com/summit" style="text-decoration: none; color: #1a0dab;">
+      <strong>Jupyter Book at the Scientific Python 2025 Developer Summit</strong>
+    </a>
+    <p>How the team took advantage of being co-located and working closely with Scientific Python developers.</p>
+    <p><strong>Date:</strong> 2025-05-23</p>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 2px 2px 8px rgba(0,0,0,0.05);">
+    <a href="https://example.com/jupyterhub-cafe" style="text-decoration: none; color: #1a0dab;">
+      <strong>Join the Jupyter Book team at a JupyterHub Collaboration Cafe</strong>
+    </a>
+    <p>The JupyterHub team have graciously opened their space to the Jupyter Book community.</p>
+    <p><strong>Date:</strong> 2025-04-09</p>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 2px 2px 8px rgba(0,0,0,0.05);">
+    <a href="https://example.com/turing-upgrades" style="text-decoration: none; color: #1a0dab;">
+      <strong>The Turing Way upgrades to Jupyter Book 2</strong>
+    </a>
+    <p>What we liked and learned, and what we’d like to see improved</p>
+    <p><strong>Date:</strong> 2025-02-27</p>
+  </div>
+
+</div>
