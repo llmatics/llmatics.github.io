@@ -1,3 +1,5 @@
+# Latest Blog Posts
+
 <!-- # MyST Quickstart
 
 [![Made with MyST](https://img.shields.io/badge/made%20with-myst-orange)](https://myst.tools)
@@ -21,8 +23,6 @@ The goals of the [quickstart guide](https://myst.tools/docs/mystjs/quickstart) a
 ## Export as a PDF
 
 ![](./images/export-pdf.png) -->
-
-<!-- # Recent blog posts -->
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 

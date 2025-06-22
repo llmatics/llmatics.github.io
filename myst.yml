@@ -5,7 +5,7 @@ project:
   title: Welcome to LLMatics! 🤗
   description: Unlock the math magic 🧠 behind Large Language Models 🤖✨
   # keywords: []
-  authors: [Latest Posts]
+  authors: [Koffivi Fidèle Gbagbe]
   github: https://github.com/llmatics/llmatics.github.io
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 
