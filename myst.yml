@@ -13,3 +13,7 @@ site:
   options:
     favicon: ./images/myfavicon.ico
     logo: ./images/llmatics-high-resolution-logo-grayscale-transparent.png
+
+  actions:
+    - title: About Me
+      url: https://koffi369.github.io/
