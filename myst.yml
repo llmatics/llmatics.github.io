@@ -32,7 +32,7 @@ site:
   template: book-theme
   options:
     favicon: ./images/myfavicon.ico
-    logo: ./images/llmatics-high-resolution-logo-grayscale-transparent.png
+    logo: ./images/llmatics-high-resolution-logo-transparent.png
     # folders: true
 
   actions:
