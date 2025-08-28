@@ -11,7 +11,7 @@
     <p>
     In this post, you'll explore the <strong>mathematical foundations of sequence-to-sequence (seq2seq) models</strong> for machine translation. We'll focus on the <strong>RNN Encoder–Decoder architecture</strong>, which consists of two main components: an <strong>encoder RNN</strong> and ...
     </p>
-    <p><strong>Date:</strong> <span style="color: pink;">July 02, 2025</span></p>
+    <p><strong>Date:</strong> <span style="color: pink;">Aug 02, 2025</span></p>
   </div>
 
 </div>
